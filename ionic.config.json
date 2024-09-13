@@ -1,0 +1,7 @@
+{
+  "name": "DIARIO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
